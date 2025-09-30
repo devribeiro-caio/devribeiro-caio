@@ -9,7 +9,7 @@
 
 👨‍💻 **Sobre mim**  
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)  
-🚀 Em transição de carreira, com foco em desenvolvimento front-end, JavaScript e React Native  
+🚀 Em transição de carreira, com foco em desenvolvimento Backend Java  
 🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais  
 📍 Localização: Caieiras – SP
 
