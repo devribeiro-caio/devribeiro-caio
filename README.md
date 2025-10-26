@@ -8,11 +8,10 @@
 ---
 
 👨‍💻 **Sobre mim**  
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)  
-🚀 Em transição de carreira, com foco em desenvolvimento Backend Java  
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (3/5º semestre)  
+🚀 Em transição de carreira, com foco em desenvolvimento Frontend 
 🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais  
-📍 Localização: Caieiras – SP
-
+�
 ---
 
 📊 **GitHub Stats**
