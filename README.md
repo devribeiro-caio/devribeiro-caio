@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Caio Ribeiro 👋</h1>
 
 <p align="center">
- Estudante de ADS | Backend | Java | JavaScript | TypeScript | React | Nodejs | SpringBoot 💻
+ Estudante de ADS | Frontend | JavaScript | TypeScript | React | Nodejs 💻
 </p>
 
 ---
