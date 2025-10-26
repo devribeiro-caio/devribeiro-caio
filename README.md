@@ -10,7 +10,7 @@
 👨‍💻 **Sobre mim**  
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (3/5º semestre)  
 🚀 Em transição de carreira, com foco em desenvolvimento Frontend 
-🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais  
+🛠️ Apaixonado por tecnologia e por tirar ideias do papel através de código.  
 �
 ---
 
