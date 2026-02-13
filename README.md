@@ -8,7 +8,7 @@
 ---
 
 👨‍💻 **Sobre mim**  
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (3/5º semestre)  
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (4/5º semestre)  
 🛠️ Apaixonado por tecnologia e por tirar ideias do papel através de código.  
 �
 ---
