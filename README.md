@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Caio Ribeiro 👋</h1>
 
 <p align="center">
- Estudante de ADS | Full Stack | JavaScript | TypeScript | React | Nodejs 💻
+ IT Analyst and Technical Support  | Software Developer💻
 </p>
 
 ---
